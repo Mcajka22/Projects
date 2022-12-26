@@ -1,2 +1,2 @@
 # Projects
-Contains projects developed by myself
+Contains projects developed by myself.
